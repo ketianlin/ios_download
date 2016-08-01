@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>icon地址</string>
+					<string>http://dbg.vip120.com/app/app_icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>http://dbg.vip120.com/app/app_icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
